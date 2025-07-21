@@ -15,7 +15,7 @@ Combino diseño y código para dar vida a ideas con un enfoque **estético** y *
 - 🧠 **Backend:** Node.js · APIs REST · MariaDB  
 - 🎨 **Diseño:** Figma · Photoshop · Branding  
 - 🛠️ **Organización:** Notion · Trello · Microsoft Office  
-- 🌍 **Idiomas:** Español (nativo), Inglés (B1), Portugués (básico)  
+- 🌍 **Idiomas:** Español (nativo), Inglés (B1)
 
 ---
 
@@ -26,8 +26,8 @@ Mi portafolio es una experiencia visual inspirada en mundos mágicos y cinematog
 - 🪐 **Espacio:** Bienvenida al universo  
 - 🌌 **Cielo:** Sobre mí con estética tipo Studio Ghibli  
 - 🌊 **Mar:** Proyectos personales dentro de burbujas mágicas  
-- 🌿 **Tierra:** Habilidades como criaturas encantadas  
-- ❄️ **Corte de Hielo:** Contacto tipo Reina de Hielo  
+- 🌿 **Tierra:** Habilidades  
+- ❄️ **Corte de Hielo:** Contacto   
 
 ✨ Cada sección incluye animaciones suaves, estética personalizada y diseño responsivo.
 
