@@ -81,7 +81,7 @@ I'm open to:
 <p align="center">🎨 Interfaces Únicas · ⚙️ Diseño Funcional · 🌌 Experiencias Inmersivas</p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTF4YXZnMGg1b3kzbW95amV6cXo2c20yOWR0NTE2OWtvdTg0dW41MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pYNhxuY2Xx528/giphy.gif" width="150" alt="coding gif">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTlna3UzcjQ1amVmZHExeHpxamt6NDVmc2dkZGhhdWpjZjQ1ZjZ0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif">
 </p>
 
 ---
