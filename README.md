@@ -30,13 +30,13 @@ I blend design and code to bring ideas to life with an **aesthetic and functiona
 🌍 **Languages:**  
 - 🇪🇸 Spanish (Native)  
 - 🇺🇸 English (B1)  
-- 🇧🇷 Portuguese (Basic)
+
 
 ---
 
 ## ✨ My Portfolio
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" align="right" width="250" alt="sparkling gif" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXc0OXpjc3p4ZmR1amJ4Ymo4cmM1eDNzeThkd2pwdnFqdGZrbWl4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yALcFbrKshfoY/giphy.gif" />
 
 My portfolio is a visual journey inspired by **cinematic and magical worlds**:
 
@@ -139,6 +139,14 @@ Estoy abierta a:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estefany-daniela-mart%C3%ADnez-ni%C3%B1o-b0832b209)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DanielaM1293)  
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:estefanydanielamartineznino@gmail.com)
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielaM1293&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaM1293&layout=compact&theme=radical" width="300" />
+</p>
+
 
 > _“Creo que la tecnología también puede ser mágica si se diseña con intención.”_ ✨
 
