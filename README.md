@@ -113,7 +113,7 @@ Combino diseño y código para dar vida a ideas con un toque **estético y funci
 
 ## ✨ Mi Portafolio
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" align="right" width="250" alt="sparkling gif" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xudXA3eW1oMDJ5N3RvYjAyOGZqeDgzc3AzbHdjZGlicWd3ejlzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cqvMx0yH3eko/giphy.gif" />
 
 Mi portafolio es un recorrido visual inspirado en **mundos mágicos y cinematográficos**:
 
