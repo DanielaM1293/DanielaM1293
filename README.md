@@ -29,7 +29,7 @@ I blend design and code to bring ideas to life with an **aesthetic and functiona
 
 🌍 **Languages:**  
 - 🇪🇸 Spanish (Native)  
-- 🇺🇸 English (B1)  
+- 🇺🇸 English (B2)  
 
 
 ---
@@ -107,7 +107,7 @@ Combino diseño y código para dar vida a ideas con un toque **estético y funci
 
 🌍 **Idiomas:**  
 - 🇪🇸 Español (Nativo)  
-- 🇺🇸 Inglés (B1) 
+- 🇺🇸 Inglés (B2) 
 
 ---
 
