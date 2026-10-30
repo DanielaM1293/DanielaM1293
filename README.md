@@ -3,6 +3,10 @@
 **Junior Frontend / Full-Stack Developer** · Bogotá, Colombia
 Unique interfaces · Functional design · Immersive experiences
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTF4YXZnMGg1b3kzbW95amV6cXo2c20yOWR0NTE2OWtvdTg0dW41MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pYNhxuY2Xx528/giphy.gif" alt="Coding animation" width="400" />
+</p>
+
 🔗 **Live portfolio:** [estefanymar.netlify.app](https://estefanymar.netlify.app)
 
 > 🇪🇸 Versión en español más abajo.
@@ -37,6 +41,10 @@ I enjoy combining design and code to build clear, functional, and visually memor
 **Team projects:** [KeyCode Group F](https://github.com/DanielaM1293/KeyCode_GrupoF) · [RAN — plant store](https://github.com/JhosepCastro/RAN-) · [Mujeres Digitales hackathon](https://github.com/AriasCamilaA/hackaton-mujeres-digitales)
 
 ## 🗂️ About this portfolio
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXc0OXpjc3p4ZmR1amJ4Ymo4cmM1eDNzeThkd2pwdnFqdGZrbWl4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yALcFbrKshfoY/giphy.gif" alt="Portfolio animation" width="400" />
+</p>
 
 The site is a visual journey inspired by cinematic and magical worlds, with one section per scene:
 
@@ -91,6 +99,10 @@ I'm open to freelance work, creative collaborations, and remote or full-time rol
 
 ## ✨ Estefany Martínez — Desarrolladora Frontend Creativa
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTlna3UzcjQ1amVmZHExeHpxamt6NDVmc2dkZGhhdWpjZjQ1ZjZ0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif" alt="Animación de código" width="400" />
+</p>
+
 **Junior Frontend / Full-Stack Developer** · Bogotá, Colombia
 Interfaces únicas · Diseño funcional · Experiencias inmersivas
 
@@ -109,6 +121,14 @@ Me gusta combinar diseño y código para crear interfaces claras, funcionales y 
 - **Pixials News:** plataforma de noticias de tecnología en Angular. [Código](https://github.com/DanielaM1293/Pixials-News-Angular)
 - **Predicción NFL Draft:** modelo de clasificación evaluado con ROC-AUC. [Código](https://github.com/DanielaM1293/gci-world-2026)
 - **Portafolio creativo:** esta experiencia visual por escenas (espacio, cielo, mar, tierra y hielo).
+
+### 🗂️ Sobre este portafolio
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xudXA3eW1oMDJ5N3RvYjAyOGZqeDgzc3AzbHdjZGlicWd3ejlzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cqvMx0yH3eko/giphy.gif" alt="Animación del portafolio" width="400" />
+</p>
+
+Un recorrido visual inspirado en mundos mágicos y cinematográficos: 🪐 Espacio (bienvenida), 🌌 Cielo (sobre mí), 🌊 Mar (proyectos), 🌿 Tierra (habilidades) y ❄️ Corte de Hielo (contacto). Hecho con React, Vite y Tailwind CSS.
 
 ### 🌍 Idiomas
 
