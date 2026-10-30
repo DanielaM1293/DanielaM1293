@@ -88,7 +88,7 @@ I'm open to freelance work, creative collaborations, and remote or full-time rol
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/estefany-daniela-mart%C3%ADnez-ni%C3%B1o-b0832b209)
 - 💻 [GitHub](https://github.com/DanielaM1293)
-- ✉️ [estefanydanielamartineznino@gmail.com](mailto:estefanydanielamartineznino@gmail.com)
+- ✉️ [estefanydanielamartineznino@gmail.com](mailto:estefanydanidelamartineznino@gmail.com)
 - 📬 Or use the [contact section](https://estefanymar.netlify.app#contacto) of the site
 
 > *"I believe technology can be magical — when designed with intention."* ✨
